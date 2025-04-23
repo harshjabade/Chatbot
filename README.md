@@ -3,6 +3,8 @@ This project presents an AI-powered chatbot integrated with a secure user authen
 
 Key Features:
 ✔ Multi-role AI chatbot (Technical, Creative, Medical, customized etc.)
+
+
 ✔ User authentication (Login, Signup, Password Reset,    OTP Verification)
 ✔ Session history tracking
 ✔ Custom prompt support
